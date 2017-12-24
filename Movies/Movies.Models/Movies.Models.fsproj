@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Library.fs" />
+    <Compile Include="Genre.fs" />
+    <Compile Include="Company.fs" />
+    <Compile Include="Country.fs" />
+    <Compile Include="Language.fs" />
+    <Compile Include="Movie.fs" />
+    <Compile Include="Person.fs" />
+    <Compile Include="Season.fs" />
+    <Compile Include="Network.fs" />
+    <Compile Include="TV.fs" />
+    <Compile Include="FindMovies.fs" />
+    <Compile Include="Review.fs" />
+    <Compile Include="ReviewsList.fs" />
+    <Compile Include="Backdrop.fs" />
+    <Compile Include="Poster.fs" />
+    <Compile Include="ImageList.fs" />
+    <Compile Include="FindTV.fs" />
+  </ItemGroup>
+</Project>
