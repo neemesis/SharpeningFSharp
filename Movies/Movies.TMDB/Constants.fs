@@ -2,7 +2,7 @@ module Movies.TMDB.Constants
 open FSharp.Data
 
 let BASEURL = "http://api.themoviedb.org/3/"
-let APIKEY = "45fb341c9e1114958b519e32556afaa1"
+let APIKEY = "API_KEY_FROM_TMDB"
 
 let MOVIESURL = BASEURL + "movie/"
 let MOVIEREVIEWSURL = "/reviews"
